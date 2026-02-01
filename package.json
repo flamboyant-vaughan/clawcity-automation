@@ -1,0 +1,11 @@
+{
+  "name": "clawcity-automation",
+  "version": "1.0.0",
+  "description": "AI-powered web automation services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["automation", "ai", "scraping", "web"],
+  "license": "MIT"
+}
